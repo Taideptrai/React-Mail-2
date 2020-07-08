@@ -1,2 +1,0 @@
-# ReactMail
- react email
